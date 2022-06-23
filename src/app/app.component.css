@@ -1,0 +1,31 @@
+.in-msg {
+    background: #b6ecff;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid #4df9ff;
+}
+
+.ex-msg {
+    background: #ebebeb;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid #cecece;
+}
+
+.chatRoom {
+    width: 400px;
+    height: auto;
+    border: 1px solid #0a198f;
+    border-radius: 20px;
+    border-width: 1.5px;
+    margin: 20px;
+}
+
+.chat-user-name {
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.inuser {
+    margin: 20px;
+}
